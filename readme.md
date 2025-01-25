@@ -1,4 +1,4 @@
-# Google Sheets Clone 📊
+#  Mimicking Google Sheets 
 
 ## Overview
 A comprehensive web application mimicking Google Sheets, built using React.js, offering robust spreadsheet functionality with advanced features.
