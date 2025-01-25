@@ -3,8 +3,7 @@
 ## Overview
 A comprehensive web application mimicking Google Sheets, built using React.js, offering robust spreadsheet functionality with advanced features.
 
-## 🌐 Live Demo
-[Experience the Application](https://main--comforting-biscotti-e87a56.netlify.app)
+[Experience the Application](https://google-sheet-assignment-zeotap.vercel.app/)
 
 ![Application Screenshot](./public/demo.png)
 
