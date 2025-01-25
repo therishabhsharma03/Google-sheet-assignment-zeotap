@@ -2,7 +2,7 @@ import { useReducer, useState } from "react";
 import CellActions from "./CellActions";
 import FormulaActions from "./FormulaActions";
 import Grid from "./Grid";
-import PageActions from "./PageActions";
+// import PageActions from "./PageActions";
 import "./App.css";
 import Sheetbar from "./SheetBar";
 import reducer from "./reducer";
@@ -31,7 +31,7 @@ function App() {
 
   return (
     <div className="main-container">
-      <PageActions />
+      {/* <PageActions /> */}
       <CellActions
         activeCell={
           activeCellId && state[currentSheet][activeCellRow][activeCellCol]
