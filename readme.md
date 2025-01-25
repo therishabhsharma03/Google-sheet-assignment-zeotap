@@ -5,7 +5,6 @@ A comprehensive web application mimicking Google Sheets, built using React.js, o
 
 Deployment Link "https://google-sheet-assignment-zeotap.vercel.app/"
 
-![Application Screenshot](./public/demo.png)
 
 ##  Tech Stack & Architecture
 
