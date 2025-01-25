@@ -48,27 +48,11 @@ A comprehensive web application mimicking Google Sheets, built using React.js, o
 - Single cell copy and paste
 - Preserves formulas and styling
 
-## 🔧 Upcoming Improvements
-- Multi-cell copy-paste
-- CSV export/import
-- State management optimization using Context API
-- Enhanced error handling
-- Performance optimizations
-
 ## 📦 Data Structures
 - **Cell**: Object representing individual spreadsheet cell
   - Properties: value, formula, style, dependencies
 - **Sheet**: Collection of cells with grid-like structure
 - **Workbook**: Container for multiple sheets
-
-## 🤝 Contribution
-Interested in contributing? Check out our future improvement suggestions and feel free to raise a Pull Request!
-
-## 📝 Learning Insights
-- Advanced React state management techniques
-- Complex formula parsing and evaluation
-- UI optimization strategies
-- Handling dynamic, interdependent data structures
 
 ## 🛠 Development Approaches
 - **CSS Techniques**:
