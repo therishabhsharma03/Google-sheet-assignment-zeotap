@@ -3,11 +3,11 @@
 ## Overview
 A comprehensive web application mimicking Google Sheets, built using React.js, offering robust spreadsheet functionality with advanced features.
 
-[Experience the Application](https://google-sheet-assignment-zeotap.vercel.app/)
+Deployment Link "https://google-sheet-assignment-zeotap.vercel.app/"
 
 ![Application Screenshot](./public/demo.png)
 
-## 🚀 Tech Stack & Architecture
+##  Tech Stack & Architecture
 
 ### Technologies
 - **Frontend**: React.js
@@ -22,7 +22,7 @@ A comprehensive web application mimicking Google Sheets, built using React.js, o
   - Infix to postfix conversion algorithm
   - Depth-First Search (DFS) for cycle detection in formulas
 
-## ✨ Features
+## Features
 
 ### 1. Cell Editing & Styling
 - Edit cell contents dynamically
@@ -47,13 +47,13 @@ A comprehensive web application mimicking Google Sheets, built using React.js, o
 - Single cell copy and paste
 - Preserves formulas and styling
 
-## 📦 Data Structures
+## Data Structures
 - **Cell**: Object representing individual spreadsheet cell
   - Properties: value, formula, style, dependencies
 - **Sheet**: Collection of cells with grid-like structure
 - **Workbook**: Container for multiple sheets
 
-## 🛠 Development Approaches
+## Development Approaches
 - **CSS Techniques**:
   - Extensive use of Flexbox
   - Creative visibility management (opacity tricks)
